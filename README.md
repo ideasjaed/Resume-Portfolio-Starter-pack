@@ -1,6 +1,6 @@
 # Jazmin Lino Digital Portfolio
 
-![PAPA React JS Portfolio Starter Pack](resume-screenshot.jpg?raw=true "PAPA React JS Portfolio Stater Pack ")
+![PAPA React JS Portfolio Starter Pack](resume-screenshot.png?raw=true "Jazmin Lino Portfolio ")
 
 ### <a href="https://resume-portfolio-starter-pack.herokuapp.com">LIVE DEMO</a>
 
@@ -37,11 +37,11 @@ Run the command `npm run init` to set up a new or existing npm package. Then run
 
 ## 8. Host Resume Online
 
-1) Upload all the Resume related files to your Github Profile
-2) Go to <a href="https://www.heroku.com">Heroku</a> and set up your profile
-3) Create a New App
-4) Choose Github as a Deployment Method
-5) Select the correct resume repository that you uploaded in Step 1
+1. Upload all the Resume related files to your Github Profile
+2. Go to <a href="https://www.heroku.com">Heroku</a> and set up your profile
+3. Create a New App
+4. Choose Github as a Deployment Method
+5. Select the correct resume repository that you uploaded in Step 1
 
 ## Credits
 
