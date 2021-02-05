@@ -1,5 +1,5 @@
 # Jazmin Lino Digital Portfolio
 
-![PAPA React JS Portfolio Starter Pack](resume-screenshot.png?raw=true "Jazmin Lino Portfolio ")
+![Jazmin Lino Portfolio](resume-screenshot.png?raw=true "Jazmin Lino Portfolio ")
 
-### <a href="https://resume-portfolio-starter-pack.herokuapp.com">LIVE DEMO</a>
+### <a href="https://resume-portfolio-jazlino.herokuapp.com/">LIVE VIEW</a>

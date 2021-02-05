@@ -138,6 +138,16 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'coco-gothic-italic';
+    src: url('fonts/cocogothic/CocoGothic.eot');
+    src: url('fonts/cocogothic/CocoGothic.eot?#iefix') format('embedded-opentype'),
+         url('fonts/cocogothic/CocoGothic.woff') format('woff'),
+         url('fonts/cocogothic/CocoGothic.ttf') format('truetype'),
+         url('fonts/cocogothic/CocoGothic.ttf#libre_baskervilleregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
 
 /*
  * FIXED for Font-Face Chrome Rendering
